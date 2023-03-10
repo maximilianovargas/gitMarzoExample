@@ -4,4 +4,8 @@ public with sharing class ExampleClass {
     public ExampleClass() {
 
     }
+
+    public Integer suma(Integer sumA, Integer sumB) {
+        return sumA + sumB;
+    }
 }
