@@ -8,4 +8,7 @@ public with sharing class ExampleClass {
     public Integer suma(Integer sumA, Integer sumB) {
         return sumA + sumB;
     }
+    public Integer resta(Integer resA, Integer resB){
+        return resA - resB;
+    }
 }
