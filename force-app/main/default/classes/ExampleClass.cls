@@ -4,4 +4,8 @@ public with sharing class ExampleClass {
     public ExampleClass() {
 
     }
+
+    public Integer resta(Integer resA, Integer resB){
+        return resA - resB;
+    }
 }
